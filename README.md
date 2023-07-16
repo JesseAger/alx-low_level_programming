@@ -1,1 +1,1 @@
-C low level programming using shell
+low-level programming using C shell scripting
