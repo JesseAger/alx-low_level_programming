@@ -1,0 +1,1 @@
+the process of repeating something in the same similar way
